@@ -1,5 +1,5 @@
 
-# Finding Donoers for CharityML
+# Finding Donors for CharityML
 
 Use supervised learning to find suitable donors for a charity.
 
